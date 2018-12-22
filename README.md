@@ -1,1 +1,2 @@
-Hello Git and Github!
+This repository contains all codes i write while i am 
+learning programming.
