@@ -1,1 +1,1 @@
-This repository for all my practice coding.
+This repository is dedicated for practice.
